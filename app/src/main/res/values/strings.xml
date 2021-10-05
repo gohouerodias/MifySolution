@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MifyVsc</string>
+    <string name="title_activity_second">Second</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="login">Login</string>
+    <string name="email_or_phone_number">Email or Phone number</string>
+    <string name="oki">TODO</string>
+    <string name="register_here">Register here</string>
+    <string name="password">Password</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="meeting_room">Meeting Room</string>
+    <string name="contact">Contact</string>
+    <string name="communicate">Communicate</string>
+    <string name="profile">Profile</string>
+    <string name="call_us">Call us</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="Help">Need help ?</string>
+    <string name="inh">TODO</string>
+    <string name="join">JOIN</string>
+    <string name="put_your_link_here">put your link here</string>
+    <string name="dfd">TODO</string>
+    <string name="historique">Historique</string>
+    <string name="todo">TODO</string>
+
+</resources>
